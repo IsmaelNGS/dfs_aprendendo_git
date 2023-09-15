@@ -1,0 +1,8 @@
+git init - inicializando um repositório git
+git status - verificar o status do repositório 
+git add - Voce adiciona arquivos para serem rastreados com esse comando (ex.: git add a.txt)
+git add . - Adiciona todos os arquivos no rastreio do git.
+git commit -m "comentário" - serve para fazer comentários no git / comentar as modificações
+git branch -M main - filial, cria uma filial, uma linha do tempo principal do projeto
+git remote add origin https://github.com/IsmaelNGS/dfs_aprendendo_git.git - criando a origem desse arquivo para github.com para a pasta dfs_aprendendo.git
+git push -u origin main - enviar o arquivo local para o github, jogando o arquivo do PC para a linha do tempo do git
